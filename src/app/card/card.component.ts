@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class CardComponent implements OnInit {
 
   public image: string="https://purepng.com/public/uploads/medium/canada-d4m.png";
+  public titulo: string="viveeeeee";
   constructor () { }
 
   ngOnInit(): void {
