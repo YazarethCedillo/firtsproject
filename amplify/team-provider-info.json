@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yazzangularapp-dev-181404-authRole",
+      "UnauthRoleArn": "arn:aws:iam::829055281972:role/amplify-yazzangularapp-dev-181404-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::829055281972:role/amplify-yazzangularapp-dev-181404-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-yazzangularapp-dev-181404-deployment",
+      "UnauthRoleName": "amplify-yazzangularapp-dev-181404-unauthRole",
+      "StackName": "amplify-yazzangularapp-dev-181404",
+      "StackId": "arn:aws:cloudformation:us-east-2:829055281972:stack/amplify-yazzangularapp-dev-181404/5abe6fc0-9857-11ed-9e6e-0a7a61394fa2",
+      "AmplifyAppId": "d3jepcm1blvogl"
+    }
+  },
+  "first": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yazzangularapp-first-183531-authRole",
+      "UnauthRoleArn": "arn:aws:iam::829055281972:role/amplify-yazzangularapp-first-183531-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::829055281972:role/amplify-yazzangularapp-first-183531-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-yazzangularapp-first-183531-deployment",
+      "UnauthRoleName": "amplify-yazzangularapp-first-183531-unauthRole",
+      "StackName": "amplify-yazzangularapp-first-183531",
+      "StackId": "arn:aws:cloudformation:us-east-2:829055281972:stack/amplify-yazzangularapp-first-183531/5a2d9a10-985a-11ed-b150-0a6a5363530a",
+      "AmplifyAppId": "d368yarjpy8poh"
+    }
+  }
+}
